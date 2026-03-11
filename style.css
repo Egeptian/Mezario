@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 50px;
+}
+
+img {
+  width: 400px;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(255,255,255,0.2);
+}
+
+.details {
+  text-align: left;
+  max-width: 400px;
+  margin: 20px auto 0 auto;
+  line-height: 1.6;
+}
